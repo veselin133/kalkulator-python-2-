@@ -27,4 +27,4 @@ Startirane:
 Biblioteki:
 Ne sa neobhodimi vunshni biblioteki.
 
-Avtor: Tvoeto ime
+Avtor: Veselin Dinov
